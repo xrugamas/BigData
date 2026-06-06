@@ -84,7 +84,7 @@ Proyecto-BigData-Redencion-Puntos/
 
 │
 
-├── graficas/
+├── outputs/
 
 │ ├── distribucion_redime.png
 
@@ -95,10 +95,6 @@ Proyecto-BigData-Redencion-Puntos/
 │ ├── transacciones_dia_semana.png
 
 │ └── acumula_vs_target.png
-
-│
-
-├── outputs/
 
 │ └── reporte_eda.txt
 
