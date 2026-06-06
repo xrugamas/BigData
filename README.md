@@ -1,5 +1,4 @@
 # Predicción de Redención de Puntos en un Programa de Lealtad
-# Predicción de Redención de Puntos en un Programa de Lealtad
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PySpark](https://img.shields.io/badge/PySpark-3.5-orange)
@@ -7,11 +6,7 @@
 ![Hadoop](https://img.shields.io/badge/Hadoop-BigData-yellow)
 ![MLlib](https://img.shields.io/badge/MLlib-MachineLearning-green)
 
-## Flujo Completo del Proyecto
 
-<div align="center">
-<img src="outputs/flujo_del_proyecto.png" width="1000">
-</div>
 ## Descripción
 
 Proyecto académico de Big Data enfocado en la predicción de redención de puntos mediante técnicas de Machine Learning utilizando PySpark MLlib en entorno Docker con Hadoop.
@@ -69,7 +64,11 @@ Evaluación de Modelos
 Predicción de Redención
 
 ---
+## Flujo Completo del Proyecto
 
+<div align="center">
+<img src="outputs/flujo_del_proyecto.png" width="1000">
+</div>
 ## Estructura del Proyecto
 
 Proyecto-BigData-Redencion-Puntos/
