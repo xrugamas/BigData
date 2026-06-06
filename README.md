@@ -179,10 +179,8 @@ Este enfoque representa un escenario real de negocio.
 
 ---
 
-## Autor
+## Autores
+Cesar Bladimir Romero Rugamas
+Walter Alexander Salguero Rodríguez
+Guillermo Ulises Palacios Flores
 
-César Bladimir Romero Rugamas
-
-Especialización en Big Data y Analítica
-
-2026
