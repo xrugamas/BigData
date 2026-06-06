@@ -1,0 +1,32 @@
+
+
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.9
+openpyxl==3.1.5
+pyspark==3.5.0
+scikit-learn==1.7.0
+scipy>=1.13.0
+joblib>=1.4.0
+threadpoolctl>=3.5.0
+
+Comandos Utilizados en Docker
+1. Ingreso al contenedor:
+docker exec -it hadoop-master bash
+2. Verificación de Spark:
+spark-submit --version
+3. Verificación de archivos:
+ls -lh /root
+4. Ejecución EDA:
+python3 /root/eda_limpieza_redencion.py
+5. Ejecución de modelos PySpark:
+python3 /root/proyecto_redencion_pyspark.py
+6. Evaluación corregida:
+python3 /root/proyecto_redencion_pyspark_v2.py
+7. Evaluación temporal por cliente:
+python3 /root/evaluacion_real_redencion_cliente.py
+8. Generación de gráficas:
+python3 /root/graficas_proyecto.py
+9. Verificación de resultados:
+ls -lh /root/graficas
+ls -lh /root/resultados_evaluacion_temporal
