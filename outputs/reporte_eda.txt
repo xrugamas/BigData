@@ -1,0 +1,47 @@
+REPORTE EDA - PREDICCIÓN DE REDENCIÓN DE PUNTOS
+=================================================
+
+Total de registros: 165013
+Clientes únicos: 14693
+Redenciones: 474
+No redenciones: 164539
+Porcentaje de redención: 0.2873%
+
+Distribución REDIME:
+REDIME
+CARD    163360
+BIEN      1167
+REDE       474
+REAC         5
+AUTO         5
+PROM         2
+Name: count, dtype: int64
+
+Valores nulos después de limpieza:
+CORRELATIVO     0
+CLIENTE         0
+FECHA_TRAN      0
+FECHA_PROC      0
+ACUMULA         0
+REDIME          0
+LOTE            0
+CONVALOR        0
+SINVALOR        0
+TARGET          0
+MES             0
+DIA             0
+DIA_SEMANA      0
+DIAS_PROCESO    0
+dtype: int64
+
+Descripción estadística:
+             ACUMULA       CONVALOR       SINVALOR           LOTE   DIAS_PROCESO
+count  165013.000000  165013.000000  165013.000000  165013.000000  165013.000000
+mean      245.459727     213.375019      31.929175    6869.068510      39.638532
+std      1432.315218    1372.685134     407.893281     371.516951      15.261474
+min         0.000000       0.000000       0.000000       0.000000       0.000000
+25%        15.000000      14.000000       0.000000    6881.000000      29.000000
+50%        37.000000      36.000000       0.000000    6890.000000      37.000000
+75%        96.000000      93.000000       0.000000    6896.000000      52.000000
+max    152000.000000  152000.000000   29000.000000    6909.000000     370.000000
+
