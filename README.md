@@ -10,7 +10,7 @@
 ## Flujo Completo del Proyecto
 
 <div align="center">
-<img src="docs/flujo_proyecto.png" width="1000">
+<img src="outputs/flujo_proyecto.png" width="1000">
 </div>
 ## Descripción
 
